@@ -7,7 +7,7 @@
   ## 🔧 What I Work With
 
   **Infrastructure:** Kubernetes (kubeadm) • FluxCD • Cilium • Traefik • Cert-Manager
-  **Platforms:** Proxmox • Raspberry Pi CM5 • AMD Ryzen
+  **Platforms:** Ubuntu • Raspberry Pi CM5 • AMD Ryzen
   **Tools:** Helm • Kustomize • SOPS • External Secrets • MetalLB
   **Monitoring:** Prometheus • Grafana • Loki
 
